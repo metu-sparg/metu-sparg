@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-METU Spatial Audio Research Group (METU SPARG) was founded in 2013 to consolidate ongoing research work at METU Graduate School of Informatics in the area of audio signal processing to further the state-of-the-art in spatial and 3D audio capture, editing, synthesis, transmission, reproduction, and testing. The research themes in SPARG include: microphone array signal processing, object-based audio, spatial and 3D audio, procedural sound, automatic soundscape analysis, artificial reverberation, musical interaction and audio-based biometrics. Some of the news and announcements are made from our Twitter account at @metusparg. Please feel free to follow us. 
+METU Spatial Audio Research Group (METU SPARG) carries out groundbreaking research on microphone array signal processing, immersive audio, procedural sound, room acoustics and robot navigation.
