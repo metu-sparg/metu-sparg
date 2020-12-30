@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "METU Spatial Audio Research Group (METU SPARG)"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+METU Spatial Audio Research Group (METU SPARG) was founded in 2013 to consolidate ongoing research work at METU Graduate School of Informatics in the area of audio signal processing to further the state-of-the-art in spatial and 3D audio capture, editing, synthesis, transmission, reproduction, and testing. The research themes in SPARG include: microphone array signal processing, object-based audio, spatial and 3D audio, procedural sound, automatic soundscape analysis, artificial reverberation, musical interaction and audio-based biometrics. Some of the news and announcements are made from our Twitter account at @metusparg. Please feel free to follow us. 
